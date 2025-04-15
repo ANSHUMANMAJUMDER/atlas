@@ -1,4 +1,5 @@
 import { FaRegArrowAltCircleRight } from "react-icons/fa";
+import atlas from "../../assets/world.png"
 import React from 'react'
 const HeroSection = () => {
   return (
@@ -15,8 +16,8 @@ const HeroSection = () => {
             Start Exploring <FaRegArrowAltCircleRight />
           </button>
         </div>
-        <div className='hero-image'>
-          <img className="world-map" src="https://atlas-lp3xc1beo-anshumanmajumders-projects.vercel.app/images/world.png" alt="" />
+        <div className='hero-image'> <img className="world-map" src={atlas} alt="" />
+         
         </div>
         </div>
        </main>
