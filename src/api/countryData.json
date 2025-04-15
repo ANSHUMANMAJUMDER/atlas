@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": 1393409038,
+        "interestingFact": "India is the only country where people argue if 'chai' is a drink or an emotion."
+    },
+    {
+        "id": 2,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": 25687041,
+        "interestingFact": "Kangaroos outnumber people, but luckily, they can't vote... yet."
+    },
+    {
+        "id": 3,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": 125800000,
+        "interestingFact": "In Japan, it’s totally normal for your toilet to have more features than your phone."
+    },
+    {
+        "id": 4,
+        "countryName": "USA",
+        "capital": "Washington, D.C.",
+        "population": 331893745,
+        "interestingFact": "Americans measure everything in football fields, except actual football."
+    },
+    {
+        "id": 5,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": 214326223,
+        "interestingFact": "Brazilians invented soccer-style dancing long before VAR existed to ruin the fun."
+    },
+    {
+        "id": 6,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": 83166711,
+        "interestingFact": "Germans have a word for everything, even a word for the joy of finding a perfect parking spot."
+    },
+    {
+        "id": 7,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 38246108,
+        "interestingFact": "Canada apologizes so often, they’re considering adding it to the national anthem."
+    },
+    {
+        "id": 8,
+        "countryName": "Italy",
+        "capital": "Rome",
+        "population": 60367477,
+        "interestingFact": "Italians believe pizza is an art form, and pineapples are the graffiti ruining it."
+    },
+    {
+        "id": 9,
+        "countryName": "United Kingdom",
+        "capital": "London",
+        "population": 67326569,
+        "interestingFact": "In the UK, discussing the weather is a sport, and complaining about it is an art."
+    },
+    {
+        "id": 10,
+        "countryName": "South Korea",
+        "capital": "Seoul",
+        "population": 51709098,
+        "interestingFact": "South Koreans take karaoke so seriously, they have a backup mic just for high notes."
+    },
+    {
+        "id": 11,
+        "countryName": "France",
+        "capital": "Paris",
+        "population": 65426179,
+        "interestingFact": "France is where eating a croissant counts as a cultural experience."
+    },
+    {
+        "id": 12,
+        "countryName": "China",
+        "capital": "Beijing",
+        "population": 1444216107,
+        "interestingFact": "In China, social media influencers include pandas with live-streamed bamboo snacks."
+    },
+    {
+        "id": 13,
+        "countryName": "Russia",
+        "capital": "Moscow",
+        "population": 145912025,
+        "interestingFact": "Russia's winters are so cold that even their vodka wears a jacket."
+    },
+    {
+        "id": 14,
+        "countryName": "South Africa",
+        "capital": "Pretoria",
+        "population": 60142978,
+        "interestingFact": "South Africa has 11 official languages, but everyone understands the language of a good braai (BBQ)."
+    },
+    {
+        "id": 15,
+        "countryName": "Mexico",
+        "capital": "Mexico City",
+        "population": 126014024,
+        "interestingFact": "Mexico’s tacos are so good, they’ve turned guacamole into a currency."
+    },
+    {
+        "id": 16,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": 109262178,
+        "interestingFact": "Egyptians were the original influencers; they made pyramids go viral before Instagram."
+    },
+    {
+        "id": 17,
+        "countryName": "New Zealand",
+        "capital": "Wellington",
+        "population": 5135300,
+        "interestingFact": "In New Zealand, sheep are VIP citizens and outnumber humans by a 5-to-1 ratio."
+    },
+    {
+        "id": 18,
+        "countryName": "Argentina",
+        "capital": "Buenos Aires",
+        "population": 45605823,
+        "interestingFact": "Argentinians are so passionate about tango, they sometimes dance while waiting in line."
+    },
+    {
+        "id": 19,
+        "countryName": "Sweden",
+        "capital": "Stockholm",
+        "population": 10353442,
+        "interestingFact": "Swedes have mastered the art of fika—taking a coffee break so serious it could be an Olympic sport."
+    },
+    {
+        "id": 20,
+        "countryName": "Norway",
+        "capital": "Oslo",
+        "population": 5488000,
+        "interestingFact": "In Norway, midnight sun parties last so long, even the moon feels left out."
+    }
+]

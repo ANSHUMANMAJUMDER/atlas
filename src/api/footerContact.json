@@ -1,0 +1,28 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "123 Explorer's Lane, Worldview City, Earth 10101"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "+1 (555) 123-4567"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@globetales.com"
+    },
+    {
+      "icon": "FaClock",
+      "title": "Working Hours",
+      "details": "Monday - Friday: 9:00 AM - 6:00 PM"
+    },
+    {
+      "icon": "MdChat",
+      "title": "Live Chat",
+      "details": "Available on our website"
+    }
+  ]
+  
