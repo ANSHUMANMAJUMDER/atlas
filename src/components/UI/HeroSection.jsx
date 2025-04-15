@@ -16,6 +16,7 @@ const HeroSection = () => {
           </button>
         </div>
         <div className='hero-image'>
+{/*           maade changes  */}
           <img className="world-map" src="https://atlas-lp3xc1beo-anshumanmajumders-projects.vercel.app/images/world.png" alt="" />
         </div>
         </div>
